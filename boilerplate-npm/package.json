@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Alejandro Peredo",
+	"description": "Proyecto de practica para el curso de Backend y API's con Node de FreeCodeCamp",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
