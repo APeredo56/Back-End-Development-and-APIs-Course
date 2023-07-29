@@ -12,5 +12,11 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"keywords": [
+		"backend",
+		"api",
+		"node",
+		"express"
+	]
 }
